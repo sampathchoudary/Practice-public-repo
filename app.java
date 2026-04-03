@@ -7,6 +7,7 @@ public class AddTwoIntegers {
    }
 }
 
+
 #dev2 added code
    import java.util.Scanner;
 public class CheckEvenOdd {
@@ -20,3 +21,5 @@ public class CheckEvenOdd {
            System.out.println(num + " is odd");
    }
 }
+
+dev 1 added code without dev2 code pull
